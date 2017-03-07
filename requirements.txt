@@ -28,4 +28,4 @@ greenlet
 mock==2.0.0
 netaddr
 python-dbusmock==0.16.7
-
+pyinotify
